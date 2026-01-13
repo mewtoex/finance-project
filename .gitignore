@@ -1,0 +1,17 @@
+bin/
+obj/
+
+.vs/
+*.user
+*.userosscache
+*.suo
+
+appsettings.Development.json
+.env
+
+TestResults/
+
+.DS_Store
+Thumbs.db
+
+packages/
